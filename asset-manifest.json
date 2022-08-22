@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hay-calculator/static/css/main.cbe553cc.css",
+    "main.js": "/hay-calculator/static/js/main.4777a932.js",
+    "static/js/787.7d30e1db.chunk.js": "/hay-calculator/static/js/787.7d30e1db.chunk.js",
+    "index.html": "/hay-calculator/index.html",
+    "main.cbe553cc.css.map": "/hay-calculator/static/css/main.cbe553cc.css.map",
+    "main.4777a932.js.map": "/hay-calculator/static/js/main.4777a932.js.map",
+    "787.7d30e1db.chunk.js.map": "/hay-calculator/static/js/787.7d30e1db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe553cc.css",
+    "static/js/main.4777a932.js"
+  ]
+}
