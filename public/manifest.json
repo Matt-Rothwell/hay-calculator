@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Hay Calculator",
+  "name": "Hay Bale Storage Calculator",
   "icons": [
     {
       "src": "favicon.ico",

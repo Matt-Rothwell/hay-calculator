@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.Tabs-bdr {
+  border: 1px solid #dee2e6;
+  border-radius: 7px;
+  border-top-style: hidden;
+  border-top-left-radius: 0%;
+  border-top-right-radius: 0%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
+}
